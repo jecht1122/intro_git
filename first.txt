@@ -13,3 +13,4 @@ Vimエディタの使い方 (commitの編集方法)
  git status
  git rm
  git status
+ git diff
