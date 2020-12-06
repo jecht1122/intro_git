@@ -12,3 +12,4 @@ Vimエディタの使い方 (commitの編集方法)
  git add
  git status
  git rm
+ git status
